@@ -21,9 +21,9 @@ This project implements a secure money transfer application leveraging blockchai
    - Change to the directory: `cd <repository_name>`
 
 2. **Run the Server:**
-   - Execute: `python server.py`
+   - Run `python server.py` on the hosting device.
 
 3. **Run the Client:**
-   - Execute: `python client.py`
-
+   - Run `python client.py` on client devices trying to connect to the server.
+   
 4. **Perform Transactions:** Once clients are connected, they can execute transactions which will be securely recorded on the blockchain.
